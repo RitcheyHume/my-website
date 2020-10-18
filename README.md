@@ -1,3 +1,3 @@
 # my-website
 
-Tis is a really awesome website!
+THis is a really awesome website!
